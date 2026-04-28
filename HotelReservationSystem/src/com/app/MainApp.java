@@ -18,8 +18,8 @@ public class MainApp {
         try {
             con = DriverManager.getConnection(
                 "jdbc:mysql://localhost:3306/hotel",
-                "root",
-                "Teju@1631"  
+                "your_username",
+                "your_password"  
             );
         } catch (Exception e) {
             System.out.println("Database Connection Failed");
