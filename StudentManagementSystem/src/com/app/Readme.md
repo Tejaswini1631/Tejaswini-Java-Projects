@@ -28,10 +28,10 @@ CREATE TABLE student (
   name VARCHAR(50),
   grade VARCHAR(10)
 );
-Run
+
+## Run
 Add MySQL JDBC Driver
 Run Main.java
 Use menu options
 👩‍💻 Author
 
-K. Tejaswini
